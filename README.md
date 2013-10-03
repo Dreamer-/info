@@ -32,4 +32,4 @@ Prieš pradedant reikės šios programinės įrangos:
 ## Eclipse paruošimas darbui
 
 1. Parsiųsti XML failus iš [eclipse-setup](https://github.com/nortal-lab/info/blob/master/eclipse-setup)
-2. Atlikti aprašytus veikmus [eclipse-setup/readme faile](https://github.com/nortal-lab/info/blob/master/eclipse-setup/readme.md)
+2. Atlikti aprašytus veikmus [eclipse-setup/readme faile](https://github.com/nortal-lab/info/blob/master/eclipse-setup/README.md)
