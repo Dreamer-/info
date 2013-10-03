@@ -2,6 +2,24 @@
 
 Čia rasite bendrą informaciją ir reikalingus įrankius Nortal Lab mokymams. Iškilus klausimams lab eta nortal taškas com
 
+##Temos ir Paskaitos
+Preliminarios mokymų temos ir paskaitos
+
+1. UML pagrindiai
+2. UX (User Experience) pagrindai
+3. Java Naming Convention, Objektinis programavimas, Patterns, Java ClassLoader
+4. Java Collections, Javan Exeptions, Java Generics
+5. JDBC
+6. Servlets/JSP/JSF
+7. Spring Dependency Injection, XML, XML less konfigūracija
+8. Project setup/Maven/Git/GitHub
+9. Hibernate, Data Access Objects
+10. Unit Tests, jUnit, Service Layer
+11. MVC - Controllers, Templates, Rendering
+12. Javascript - jQuery, Ajax
+13. Web aplikacijų saugumas (SQL injection, XSS, CSRF ir kt.)
+14. Web aplikacijų diegimas (Linux OS, Shell, Fabric ir kt.)
+
 ## Reikalinga programinė įrangą
 
 Prieš pradedant reikės šios programinės įrangos:
