@@ -20,7 +20,7 @@ Preliminarios mokymų temos ir paskaitos
 13. Web aplikacijų saugumas (SQL injection, XSS, CSRF ir kt.)
 14. Web aplikacijų diegimas (Linux OS, Shell, Fabric ir kt.)
 
-## Reikalinga programinė įrangą
+## Reikalinga programinė įranga
 
 Prieš pradedant reikės šios programinės įrangos:
 
