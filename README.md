@@ -1,6 +1,6 @@
 #Bendra informacija
 
-Čia rasite bendrą informaciją ir reikalingus įrankius Nortal Lab mokymams
+Čia rasite bendrą informaciją ir reikalingus įrankius Nortal Lab mokymams. Iškilus klausimams lab eta nortal taškas com
 
 ## Reikalinga programinė įrangą
 
