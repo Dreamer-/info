@@ -8,7 +8,7 @@ Preliminarios mokymų temos ir paskaitos
 1. UML pagrindiai
 2. UX (User Experience) pagrindai
 3. Java Naming Convention, Objektinis programavimas, Patterns, Java ClassLoader
-4. Java Collections, Javan Exeptions, Java Generics
+4. [Java Collections, Javan Exeptions, Java Generics](http://sdrv.ms/1fCqsJq) parsisiųsti
 5. JDBC
 6. Servlets/JSP/JSF
 7. Spring Dependency Injection, XML, XML less konfigūracija
